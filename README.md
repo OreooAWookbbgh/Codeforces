@@ -64,6 +64,14 @@ The repository is organized as follows:
 
 ---
 
+## 🧠 How to Use This Repository
+- Browse **Old Rounds** to review contest strategies and mistakes
+- Use **Practice** solutions to revise specific problem types
+- Refer to `template.cpp` for fast setup during contests
+- Re-run old problems to test alternative approaches or optimizations
+
+---
+
 ## 📈 Notes
 
 - This is an evolving repository and will continue to grow over time.
