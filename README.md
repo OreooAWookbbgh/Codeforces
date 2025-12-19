@@ -72,6 +72,13 @@ The repository is organized as follows:
 
 ---
 
+## 🤝 Contributions
+This repository is primarily for personal use, but:
+- Suggestions or alternative approaches are welcome
+- Feel free to open an issue or discussion
+
+---
+
 ## 📈 Notes
 
 - This is an evolving repository and will continue to grow over time.
